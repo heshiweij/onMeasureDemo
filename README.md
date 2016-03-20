@@ -167,9 +167,6 @@ private int createChildWidthMeasureSpec(int parentWidthMeasureSpec, View view) {
 
 ![这里写图片描述](http://img.blog.csdn.net/20160320113738411)
 
-
-示例代码：
-
 ## 附录：
 
 [Android自定义控件系列七：详解onMeasure()方法中如何测量一个控件尺寸(一)](http://blog.csdn.net/cyp331203/article/details/45027641) 
